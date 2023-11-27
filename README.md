@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Daniel Nelson</h1>
-<h3 align="center">A design-orientated full stack software engineer at the Marcy Lab School. On a mission to create visually stunning, interactive digital experiences that push the boundaries of technology and art.</h3>
+<h3 align="center">A design-orientated full stack software engineer. On a mission to create visually stunning, interactive digital experiences that push the boundaries of technology and art for positive impact within community.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
